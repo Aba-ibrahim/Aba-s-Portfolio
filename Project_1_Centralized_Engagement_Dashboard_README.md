@@ -90,7 +90,8 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 ## 🔗 Screenshots / Dashboard Preview
 
-![Dashboard Overview](./Centralized%20Community%20Engagement%20Dashboard.jpg)
+![Dashboard Overview](./PowerBI_Report/Centralized_Community_Engagement_Dashboard.jpg)
+
 
 
 
