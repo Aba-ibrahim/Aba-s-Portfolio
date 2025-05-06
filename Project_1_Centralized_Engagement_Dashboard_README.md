@@ -90,7 +90,7 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 ## 🔗 Screenshots / Dashboard Preview
 
-*(To be added: Power BI dashboard screenshots or public link — ensure no sensitive data is visible)*
+![Dashboard Overview](./PowerBI_Report/Dashboard_Overview.jpg) 
 
 ---
 
