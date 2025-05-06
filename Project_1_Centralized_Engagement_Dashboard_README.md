@@ -90,7 +90,9 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 ## 🔗 Screenshots / Dashboard Preview
 
-![Dashboard Overview](./PowerBI_Report/Centralized%20Community%20Engagement%20Dashboard.jpg) 
+![Dashboard Overview](./PowerBI_Report/Centralized Community Engagement Dashboard.jpg)
+
+
 
 ---
 
@@ -108,6 +110,6 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 I’m Aba Ibrahim, a Melbourne-based Data Analyst and Business Analyst with strong experience in data visualization, SQL, Power BI, and business impact analysis across public health, fintech, and community engagement sectors.
 
-[LinkedIn Profile](#) *(Update with your LinkedIn link)*
+[LinkedIn Profile](#) *(www.linkedin.com/in/aba-ibrahim)*
 
 ---
