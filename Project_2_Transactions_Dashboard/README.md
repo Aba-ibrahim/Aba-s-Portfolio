@@ -30,3 +30,33 @@ The client needs a dynamic dashboard to analyze financial transaction data acros
 ## 📁 Folder Structure
 
 
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Overview](./PowerBI_Report/Dashboard.jpg)
+
+---
+
+## 📘 Lessons Learned
+
+- Importance of data granularity when visualizing financial insights.
+- Role of Power BI’s DAX measures for flexible aggregation and slicing.
+- Designing KPIs that align with strategic business questions.
+
+---
+
+## 📄 Files
+
+| File                       | Description                                                    |
+|----------------------------|----------------------------------------------------------------|
+| Dashboard.pbix / .jpg      | Power BI dashboard (or sanitized screenshot)                   |
+| transactions_raw.csv       | Sample or sanitized transactional dataset                      |
+| README.md                  | This project documentation                                     |
+
+---
+
+## 🔍 About the Analyst
+
+Aba Ibrahim is a data analyst passionate about delivering insight-driven dashboards that solve real-world business problems. With expertise in Power BI, SQL, and data storytelling, he specializes in turning messy data into compelling narratives.
+
