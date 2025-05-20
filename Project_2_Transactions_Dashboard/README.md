@@ -10,7 +10,10 @@ Internal Executive Team – Transaction Monitoring Unit
 
 ## 🔎 Business Problem
 
-The client needs a dynamic dashboard to analyze financial transaction data across business units. The existing static reports make it difficult to identify anomalies, track performance trends, and optimize decision-making. A centralized, interactive Power BI dashboard is required to drive real-time insights into customer behavior, revenue trends, and operational risks.
+The client is seeking a centralized, interactive dashboard to analyze financial transactions across multiple business channels. Current static reporting tools lack the agility to surface anomalies, monitor performance trends, or support timely data-driven decisions.
+
+To address this, the business requires a dynamic Power BI solution that enables real-time visibility into key metrics such as customer behavior, revenue performance, refund patterns, and operational risks. The goal is to empower stakeholders with actionable insights that enhance strategic decision-making and operational efficiency.
+
 
 ---
 
