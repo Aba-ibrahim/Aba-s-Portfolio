@@ -5,7 +5,7 @@ Explore a selection of hands-on projects that demonstrate my data storytelling, 
 - 🔹 [**Project 1: Centralized Engagement Dashboard**](Project_1_Centralized_Engagement_Dashboard/full_project_writeup.md)
   *An interactive dashboard analyzing engagement activities across accommodation settings, streamlining reporting and outreach effectiveness.*
 
-- 🔹 [**Project 2: Financial Transactions Dashboard**](./Project_2_Transactions_Dashboard/README.md)  
+- 🔹 [**Project 2: Financial Transactions Dashboard**](Project_2_Transactions_Dashboard/README.md)  
   *A Power BI dashboard that uncovers insights from transaction data across web, mobile, and in-store channels — tracking volume, refunds, and user behavior.*
 
 
