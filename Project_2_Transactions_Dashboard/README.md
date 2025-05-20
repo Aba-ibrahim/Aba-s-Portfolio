@@ -34,7 +34,7 @@ The client needs a dynamic dashboard to analyze financial transaction data acros
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](./PowerBI_Report/Dashboard.png)
+![Dashboard Overview](./PowerBI_Report/Digital_Channel_Transaction_Dashboard.png)
 
 ---
 
