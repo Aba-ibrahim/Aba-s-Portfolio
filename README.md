@@ -2,7 +2,7 @@
 
 Explore a selection of hands-on projects that demonstrate my data storytelling, dashboard design, and end-to-end Power BI development process:
 
-- 🔹 [**Project 1: Centralized Engagement Dashboard**](Project_1_Centralized_Engagement_Dashboard/full_project_writeup.md)
+- 🔹 [**Project 1: Centralized Engagement Dashboard**](Project_1_Centralized_Engagement_Dashboard/README.md)
   *An interactive dashboard analyzing engagement activities across accommodation settings, streamlining reporting and outreach effectiveness.*
 
 - 🔹 [**Project 2: Financial Transactions Dashboard**](Project_2_Transactions_Dashboard/README.md)  
