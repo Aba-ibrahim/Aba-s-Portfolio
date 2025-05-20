@@ -7,6 +7,19 @@ Aba Ibrahim
 Internal Executive Team – Transaction Monitoring Unit
 
 ---
+## 📝 Project Summary
+
+This Power BI dashboard project analyzes over 1,000 simulated financial transactions across multiple channels (web, mobile, and in-store) to uncover key business trends, monitor refund rates, and detect potential risk patterns.
+
+The interactive dashboard enables users to:
+- Track total transaction volume and revenue
+- Compare refund and failure rates by channel
+- Monitor daily trends and user activity
+- Filter data using slicers for channel, status, refund, and date
+
+This project demonstrates practical use of Power BI for financial reporting, KPI monitoring, and dashboard design — with emphasis on data modeling, DAX calculations, and clean UX layout.
+
+---
 
 ## 🔎 Business Problem
 
