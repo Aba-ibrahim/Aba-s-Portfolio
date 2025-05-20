@@ -43,10 +43,9 @@ To address this, the business requires a dynamic Power BI solution that enables 
 
 ## 📘 Lessons Learned
 
-- Importance of data granularity when visualizing financial insights.
-- Role of Power BI’s DAX measures for flexible aggregation and slicing.
-- Designing KPIs that align with strategic business questions.
-
+- **Data Granularity Matters:** Effective financial analysis hinges on the right level of detail. Balancing granularity ensures that dashboards remain both insightful and performant without overwhelming the user.
+- **Power of DAX for Custom Insights:** Leveraging DAX measures was instrumental in building flexible KPIs and enabling dynamic filtering, which enhanced the depth of analysis and user interactivity.
+- **KPI Design Drives Impact:** Creating KPIs that are directly aligned with strategic business questions ensures the dashboard remains decision-focused and value-driven, rather than just data-rich.
 ---
 
 ## 📄 Files
