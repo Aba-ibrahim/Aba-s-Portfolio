@@ -1,6 +1,6 @@
 # 👨‍💻 About the Analyst
 
-Hi, I’m **Aba Ibrahim**, a data analyst with a passion for transforming complex information into clear, actionable insights.
+Hi, I’m **Aba Ibrahim**, a data & business analyst with a passion for transforming complex information into clear, actionable insights.
 
 I specialize in:
 
