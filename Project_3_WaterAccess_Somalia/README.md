@@ -1,10 +1,10 @@
 # 💧 Water Access Analytics Dashboard – Somalia (Policy & Infrastructure Insights)
 
-## 👨🏽‍💻 Data Analyst:
+## 👨🏽‍💻 Chemical Engineer & Data Analyst:
 Aba Ibrahim
 
 ## 🏛️ Client/Sponsor:
-Federal Somali Government – Urban Development & Water Authority. 
+Federal Somalia Government – Urban Development & Water Authority. 
 
 ---
 
