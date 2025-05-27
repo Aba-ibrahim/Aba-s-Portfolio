@@ -1,6 +1,6 @@
 # 📊 Centralized Engagement Dashboard – COVID Vaccine Program (Public Health Sector)
 
-## 👤 Data Analyst:
+## 👤 Data & Business Analyst:
 Aba Ibrahim
 
 ## 🏢 Client/Sponsor:
