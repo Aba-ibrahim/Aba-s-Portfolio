@@ -39,7 +39,7 @@ Current limitations include:
 ---
 
 ## 📂 Folder Structure
-```text
+
 Project_3_WaterAccess_Somalia/
 │
 ├── Data/
@@ -56,7 +56,7 @@ Project_3_WaterAccess_Somalia/
 │
 ├── README.md                           # Project documentation (this file)
 └── .gitkeep                            
-```text end       
+ 
 
 ---
 
