@@ -67,8 +67,8 @@ Project_3_WaterAccess_Somalia/
 ---
 
 ## 🖼️ Dashboard Preview
+![Dashboard](./PowerBI_Report/Dashboard.png)
 
-![Dashboard Overview](./PowerBI_Report/Dashboard.png)
 
 ---
 
