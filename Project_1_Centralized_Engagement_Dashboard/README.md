@@ -143,7 +143,7 @@ Project_1_Centralized_Engagement_Dashboard/
 ---
 ## 🔍 About the Analyst
 
-I’m **Aba Ibrahim**, a Melbourne-based Data and Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and NDIS programmes to fintech transaction analysis.  
+I’m **Aba Ibrahim**, a Melbourne-based Data and Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and Urban Planning / Development to fintech transaction analysis.  
 
 I specialise in:
 
