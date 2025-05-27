@@ -44,6 +44,19 @@ To address this, the business requires a dynamic Power BI solution that enables 
 ---
 
 ## 📁 Folder Structure
+```text
+Project_2_Transactions_Dashboard/
+│
+├── Data/
+│   └── transactions_raw.csv              # Simulated transaction dataset
+│
+├── PowerBI_Report/
+│   ├── Digital_Channel_Transaction_Dashboard.png   # Static dashboard preview
+│   └── Transactions_Dashboard.pbix       # Full Power BI file (≤ 100 MB)
+│
+├── README.md                             # Project documentation (this file)
+└── .gitkeep                              
+```
 
 
 ---
