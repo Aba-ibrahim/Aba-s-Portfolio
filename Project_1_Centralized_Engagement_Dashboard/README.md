@@ -140,7 +140,20 @@ Project_1_Centralized_Engagement_Dashboard/
 
 ![Dashboard Overview](./PowerBI_Report/dashboard.jpg)
 
+---
+## 🔍 About the Analyst
 
+I’m **Aba Ibrahim**, a Melbourne-based Data and Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and NDIS programmes to fintech transaction analysis.  
+
+I specialise in:
+
+- Building executive-ready dashboards that reduce manual reporting and accelerate decision-making  
+- Designing robust data models and DAX measures for KPI tracking and scenario analysis  
+- Translating complex findings into concise recommendations for technical and non-technical stakeholders  
+
+Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable business impact.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)
 
 
 
