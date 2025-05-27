@@ -56,9 +56,7 @@ Project_3_WaterAccess_Somalia/
 │
 ├── README.md                           # Project documentation (this file)
 └── .gitkeep                            # Keeps empty dirs in version control
-
-**Commit message:**  
-
+```     
 
 ---
 
