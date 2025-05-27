@@ -9,9 +9,14 @@ Federal Somalia Government – Urban Development & Water Authority.
 ---
 
 ## 📌 Project Summary
-This Power BI dashboard project explores water access and infrastructure gaps across rapidly urbanizing districts in Somalia, including Mogadishu’s CBD and surrounding areas such as Daynile, Hodan, and Kahda.
 
-The aim is to digitize water access data, simulate infrastructure planning challenges, and provide data-driven insights that could hypothetically inform policy, budget allocation, and equitable service delivery in a resource-constrained context.
+This project delivers an interactive Power BI dashboard that highlights water-access equity and infrastructure gaps across Mogadishu’s CBD and the high-growth districts of Daynile, Hodan, and Kahda. By digitising daily access metrics and infrastructure-status data, the solution simulates real-world planning challenges and transforms them into actionable insights.
+
+The dashboard equips policymakers and NGO partners with:
+
+- Clear visibility of household-level access rates and consumption trends  
+- District-by-district comparisons of working, limited, and broken water assets  
+- Data-driven evidence to prioritise capital spending, target maintenance, and improve equitable service delivery in resource-constrained environments
 
 ---
 
@@ -74,10 +79,11 @@ Project_3_WaterAccess_Somalia/
 
 ## 📘 Lessons Learned
 
-- Real-world impact begins with clean, context-aware datasets
-- Visual storytelling can bridge the gap between policy and data
-- Simulating local infrastructure challenges strengthens stakeholder empathy
-- DAX measures and dynamic filters enhance narrative clarity
+- **Data quality is foundational:** Clean, context-rich datasets are indispensable for any meaningful infrastructure analysis.  
+- **Visual storytelling drives action:** Clear, interactive narratives translate complex water-access data into policy-ready insights.  
+- **Local simulation builds empathy:** Replicating on-the-ground infrastructure challenges helps stakeholders understand urgency and prioritize resources.  
+- **DAX and dynamic filtering matter:** Well-crafted measures and slicers elevate the dashboard from static reporting to an exploratory decision-support tool.
+
 
 ---
 
