@@ -48,13 +48,14 @@ Project_3_WaterAccess_Somalia/
 │   ├── Dashboard.png                   # Static preview image
 │   └── WaterAccess_Somalia.pbix        # Full Power BI file (≤ 100 MB or via Git LFS)
 │
-├── Images/                             # Field or reference photos
+├── Images/                             # reference photos
 │   ├── Ground_Well_water_sample_collection_Daynile.png
 │   ├── Water_Tanks_Hodan.png
 │   └── Water_meters_Mogadishu.png
 │
 ├── README.md                           # Project documentation (this file)
-└── .gitkeep                           
+└── .gitkeep                            # Keeps empty dirs in version control
+        
 
 ---
 
