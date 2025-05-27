@@ -38,7 +38,8 @@ Current limitations include:
 
 ---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
+```text
 Project_3_WaterAccess_Somalia/
 │
 ├── Data/
@@ -46,7 +47,7 @@ Project_3_WaterAccess_Somalia/
 │
 ├── PowerBI_Report/
 │   ├── Dashboard.png                   # Static preview image
-│   └── WaterAccess_Somalia.pbix        # Full Power BI file (≤ 100 MB or via Git LFS)
+│   └── WaterAccess_Somalia.pbix        # Full Power BI file (≤ 100 MB)
 │
 ├── Images/                             # reference photos
 │   ├── Ground_Well_water_sample_collection_Daynile.png
@@ -54,7 +55,8 @@ Project_3_WaterAccess_Somalia/
 │   └── Water_meters_Mogadishu.png
 │
 ├── README.md                           # Project documentation (this file)
-└── .gitkeep                            # Keeps empty dirs in version control
+└── .gitkeep                            
+                    
         
 
 ---
