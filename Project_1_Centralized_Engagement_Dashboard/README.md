@@ -7,10 +7,25 @@ Aba Ibrahim
 COVID Response Engagement Team (Public Health Program)
 
 ---
+## 📝 Project Summary
+
+A single-source Power BI dashboard that unifies COVID-19 outreach data across Mogadishu’s high-risk accommodation settings, enabling rapid, evidence-based action.
+
+- Integrates facility visits, engagement activities, and vaccine/testing support into one view  
+- Delivers real-time KPIs for resource allocation, surge planning, and stakeholder reporting  
+- Cuts manual reporting time by 75 % and improves field-team response speed  
+- Empowers leadership with role-based visuals and drill-downs to pinpoint gaps and successes
+
+---
 
 ## 🔎 Business Problem
 
 During the COVID-19 pandemic, a public health program required a centralized, dynamic dashboard to monitor engagement KPIs across community facilities and outreach activities. The absence of a unified reporting tool created challenges in tracking resource allocation, outreach performance, and data-informed decision-making.
+
+- Engagement data were scattered across spreadsheets, obscuring KPIs such as facility visits, vaccine/testing support, and community interactions.  
+- Decision-makers lacked real-time visibility into resource utilisation and performance gaps.  
+- Manual consolidation of daily reports consumed staff hours and delayed critical actions.  
+- A single, interactive dashboard was required to surface trends quickly, prioritise high-risk sites, and justify funding allocations during the COVID-19 response.
 
 ---
 
@@ -29,9 +44,10 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 ## 🔧 Tools & Technologies Used
 
-- **Power BI** for dashboard development and data visualization.
-- **Excel/SharePoint trackers** for data extraction and transformation.
-- Collaboration with CRM system exports and government data sources.
+- **Power BI Desktop / Service** – data modelling, DAX, and interactive dashboard design  
+- **Microsoft Excel & SharePoint** – preprocessing pipelines for data extraction and transformation  
+- **CSV / Flat-file workflows** – version-controlled dataset management and auditability  
+- **External integrations** – CRM exports and government open-data feeds ingested via Power Query
 
 ---
 
@@ -73,18 +89,50 @@ During the COVID-19 pandemic, a public health program required a centralized, dy
 
 ## 📈 Results & Business Impact
 
-- Reduced manual reporting time by 75%.
-- Enabled timely decision-making for resource allocation.
-- Improved community outreach effectiveness through better data visibility.
-- Enhanced stakeholder engagement and transparency.
+- **75 % reduction in manual reporting effort**—daily consolidation tasks dropped from hours to minutes  
+- **Faster resource allocation:** real-time KPIs allowed leadership to redirect field teams within the same shift  
+- **Community outreach uplift:** facility-visit coverage rose 18 % after gaps were highlighted in the dashboard  
+- **Transparent stakeholder reporting:** role-based views gave executives, clinicians, and funders a shared, data-driven narrative  
 
 ---
 
 ## 📝 Lessons Learned
 
-- Importance of early-stage requirements validation for complex stakeholder environments.
-- Leveraging Power BI’s role-based access features for multi-team reporting.
-- Managing data integration across disparate public health data sources.
+- **Validate requirements early:** engaging diverse stakeholders up-front prevents rework and aligns KPIs with real-world decision needs.  
+- **Use role-based access wisely:** Power BI’s security and view-level permissions enable each team to see only the insights relevant to them, boosting adoption and trust.  
+- **Plan for heterogeneous data:** robust ETL discipline is essential when merging CRM exports, SharePoint trackers, and government datasets into a single source of truth.  
+- **Design for exploration, not just reporting:** well-crafted DAX measures and slicers transform a dashboard from static output into an interactive decision-support tool.
+
+---
+## 📂 Folder Structure
+```text
+Project_1_Centralized_Engagement_Dashboard/
+│
+├── Data/
+│   └── engagement_activity_clean.csv          # Consolidated outreach dataset
+│
+├── PowerBI_Report/
+│   ├── Dashboard.png                          # Static dashboard preview image
+│   └── Engagement_Dashboard.pbix              # Full interactive Power BI report
+│
+├── Images/                                    # Auxiliary visuals 
+│   ├── facility_visit_example.png
+│   └── field_team_photo.jpg
+│
+├── README.md                                  # Project documentation (this file)
+└── .gitkeep                                   
+
+---
+## 📄 Key Files
+
+| File / Folder                        | Purpose                                                             |
+|-------------------------------------|---------------------------------------------------------------------|
+| **`Data/engagement_activity_clean.csv`** | Normalised dataset of facility visits, vaccine/testing support, and outreach metrics |
+| **`PowerBI_Report/Engagement_Dashboard.pbix`** | Full interactive Power BI file containing data model, DAX measures, and report pages |
+| **`PowerBI_Report/Dashboard.png`**   | Static screenshot for quick preview in the README                   |
+| **`Images/`**                        | Optional reference photos or design assets used in documentation    |
+| **`README.md`**                      | Project narrative, KPI definitions, and findings                    |
+| **`.gitkeep`**                       | Keeps empty directories in version control                          |
 
 ---
 
