@@ -47,26 +47,30 @@ Project_3_WaterAccess_Somalia/
 │
 ├── PowerBI_Report/
 │   ├── Dashboard.png                   # Static preview image
-│   └── WaterAccess_Somalia.pbix        # Full Power BI file (≤ 100 MB or via Git LFS)
+│   └── WaterAccess_Somalia.pbix        # Full Power BI file (≤ 100 MB)
 │
-├── Images/                             # Field or reference photos
+├── Images/                             # Field reference photos
 │   ├── Ground_Well_water_sample_collection_Daynile.png
 │   ├── Water_Tanks_Hodan.png
 │   └── Water_meters_Mogadishu.png
 │
 ├── README.md                           # Project documentation (this file)
-└── .gitkeep                            # Keeps empty dirs in version control
+└── .gitkeep                            
 ```     
 
 ---
 
-## 📂 Files
+## 📄 Files
 
-| File                        | Description                                         |
-|----------------------------|-----------------------------------------------------|
-| `Water_Access_Somalia.csv` | Simulated dataset of water access records by region |
-| `Dashboard.png`            | Visual screenshot of the Power BI report            |
-| `README.md`                | Project overview and documentation                  |
+| File                               | Description                                             |
+|-----------------------------------|---------------------------------------------------------|
+| `Water_Access_Somalia_Updated.csv` | Simulated dataset of water-access records by district   |
+| `Dashboard.png`                    | Static screenshot of the Power BI report               |
+| `WaterAccess_Somalia.pbix`         | Full interactive Power BI file (optional download)      |
+| `README.md`                        | Project overview and documentation                     |
+
+---
+
 
 ---
 
