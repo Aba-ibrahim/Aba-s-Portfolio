@@ -1,6 +1,6 @@
 # 📊 Financial Transactions Dashboard – Business Insights (Retail/Fintech Sector)
 
-## 👤 Data Analyst:
+## 👤 Data & Business Analyst:
 Aba Ibrahim
 
 ## 🏢 Client/Sponsor:
@@ -23,10 +23,16 @@ This project demonstrates practical use of Power BI for financial reporting, KPI
 
 ## 🔎 Business Problem
 
-The client is seeking a centralized, interactive dashboard to analyze financial transactions across multiple business channels. Current static reporting tools lack the agility to surface anomalies, monitor performance trends, or support timely data-driven decisions.
+The client required a centralized, interactive dashboard to streamline analysis of financial transactions across multiple business channels. Existing static reports lacked the agility to detect anomalies, monitor real-time trends, or support timely data-driven decisions.
 
-To address this, the business requires a dynamic Power BI solution that enables real-time visibility into key metrics such as customer behavior, revenue performance, refund patterns, and operational risks. The goal is to empower stakeholders with actionable insights that enhance strategic decision-making and operational efficiency.
+To address these gaps, the organization sought a dynamic Power BI solution that would:
 
+- **Visualize transaction volume, status, and refund patterns across channels**
+- **Enable real-time monitoring of financial performance**
+- **Highlight operational risks and failed transaction rates**
+- **Provide actionable insights into customer behavior and revenue flow**
+
+The objective was to empower stakeholders with a unified view that enhances strategic decision-making and operational efficiency.
 
 ---
 
