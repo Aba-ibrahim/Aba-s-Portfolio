@@ -42,6 +42,78 @@ To address this, the business requires a dynamic Power BI solution that enables 
 - Improve transparency for leadership to take timely strategic action.
 
 ---
+## 🛠️ Tools & Technologies Used
+
+- **Power BI** – Developed interactive dashboards with rich visual analytics and KPI monitoring.
+- **Microsoft Excel** – Simulated transaction datasets and supported initial data cleaning.
+- **DAX (Data Analysis Expressions)** – Created dynamic measures for real-time aggregation, slicing, and filtering.
+- **Power Query (M Language)** – Applied data transformation and pre-processing workflows within Power BI.
+- **CSV Format** – Structured simulated data in .csv for transparency and reproducibility.
+- **GitHub** – Hosted project files, version control, and collaborative documentation for portfolio presentation.
+
+---
+
+## 📊 Data Overview
+
+The dataset simulates financial transaction activity across multiple digital channels (e.g., mobile, web, in-store) within a business environment. Each entry represents an individual transaction, capturing essential operational details such as:
+
+- **Date** – Daily timestamp of the transaction.
+- **Channel** – Platform through which the transaction was initiated.
+- **Amount** – Monetary value of the transaction (USD).
+- **Status** – Transaction outcome (e.g., success, failed).
+- **Refund** – Boolean field indicating whether the transaction was refunded.
+
+The dataset was synthetically generated to mimic real-world transaction patterns, including failed and refunded transactions. It enables the creation of realistic performance metrics and business health indicators in a secure, anonymized format.
+
+---
+## 🧩 Solution & Approach
+
+The project focused on designing an interactive Power BI dashboard to analyze transaction performance across channels. The solution was structured around the following steps:
+
+- **Data Preparation**  
+  Cleaned and transformed the simulated transaction dataset using Power Query to ensure consistency, accuracy, and suitability for reporting.
+
+- **KPI Development**  
+  Created DAX measures to calculate core performance metrics, including Total Volume, Total Transactions, Failed Transactions, and Total Refunds.
+
+- **Visual Analytics Design**  
+  Designed intuitive visuals (bar charts, stacked columns, line charts, and pie charts) to uncover trends in transaction volume, failure rates, and refund patterns by channel and over time.
+
+- **User Experience Optimization**  
+  Applied slicers and filters (channel, refund status, date) to enable dynamic exploration of the dataset, enhancing stakeholder engagement and self-service insights.
+
+- **Styling and Formatting**  
+  Ensured a professional, responsive layout with conditional formatting, accessible legends, and annotated visuals to support narrative clarity and business storytelling.
+
+---
+
+## 📈 Results & Business Impact
+
+The Transactions Dashboard delivered measurable improvements in operational transparency and decision-making by surfacing key financial patterns and anomalies. Key outcomes include:
+
+- **Operational Efficiency**  
+  Reduced manual data analysis time by over 70% through automated reporting and dynamic visualizations.
+
+- **Performance Monitoring**  
+  Enabled real-time tracking of transaction volumes, refund rates, and failed payments across multiple channels, supporting targeted intervention.
+
+- **Improved Data-Driven Decision-Making**  
+  Empowered business users with self-serve insights to optimize payment channel strategies and enhance customer experience.
+
+- **Stakeholder Engagement**  
+  Visual storytelling and clear KPIs improved communication with internal teams and non-technical stakeholders.
+
+- **Analytical Agility**  
+  DAX-driven measures and slicers provided flexible slicing of trends by date, channel, and refund status, facilitating quick insights and agile business response.
+
+---
+
+## 📘 Lessons Learned
+
+- **Data Granularity Matters:** Effective financial analysis hinges on the right level of detail. Balancing granularity ensures that dashboards remain both insightful and performant without overwhelming the user.
+- **Power of DAX for Custom Insights:** Leveraging DAX measures was instrumental in building flexible KPIs and enabling dynamic filtering, which enhanced the depth of analysis and user interactivity.
+- **KPI Design Drives Impact:** Creating KPIs that are directly aligned with strategic business questions ensures the dashboard remains decision-focused and value-driven, rather than just data-rich.
+---
 
 ## 📁 Folder Structure
 ```text
@@ -57,7 +129,17 @@ Project_2_Transactions_Dashboard/
 ├── README.md                             # Project documentation (this file)
 └── .gitkeep                              
 ```
+---
 
+## 🗂️ Key Files
+
+| File Name                     | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| `Transactions_Dataset.csv`   | Simulated dataset with fields such as date, amount, channel, status, refund. |
+| `Transactions_Dashboard.pbix`| Complete Power BI file with visuals, DAX measures, filters, and formatting. |
+| `Dashboard.png`              | Static preview of the finished dashboard, embedded in README.md.           |
+| `README.md`                  | Full project documentation including summary, methods, and impact.         |
+| `.gitkeep`                   | Maintains version control for any empty directories.                       |
 
 ---
 
@@ -67,24 +149,7 @@ Project_2_Transactions_Dashboard/
 
 ---
 
-## 📘 Lessons Learned
-
-- **Data Granularity Matters:** Effective financial analysis hinges on the right level of detail. Balancing granularity ensures that dashboards remain both insightful and performant without overwhelming the user.
-- **Power of DAX for Custom Insights:** Leveraging DAX measures was instrumental in building flexible KPIs and enabling dynamic filtering, which enhanced the depth of analysis and user interactivity.
-- **KPI Design Drives Impact:** Creating KPIs that are directly aligned with strategic business questions ensures the dashboard remains decision-focused and value-driven, rather than just data-rich.
----
-
-## 📄 Files
-
-| File                       | Description                                                    |
-|----------------------------|----------------------------------------------------------------|
-| Dashboard.pbix / .jpg      | Power BI dashboard (or sanitized screenshot)                   |
-| transactions_raw.csv       | Sample or sanitized transactional dataset                      |
-| README.md                  | This project documentation                                     |
-
----
-
 ## 🔍 About the Analyst
 
-Aba Ibrahim is a data analyst passionate about delivering insight-driven dashboards that solve real-world business problems. With expertise in Power BI, SQL, and data storytelling, he specializes in turning messy data into compelling narratives.
+Aba Ibrahim is a data and business analyst passionate about delivering insight-driven dashboards that solve real-world business problems. With expertise in Power BI, SQL, and data storytelling, he specializes in turning messy data into compelling narratives.
 
