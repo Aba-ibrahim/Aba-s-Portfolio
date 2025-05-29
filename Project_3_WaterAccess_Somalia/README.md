@@ -76,6 +76,33 @@ This dataset enables trend analysis of access coverage, infrastructure gaps, and
 
 ---
 
+## 🧩 Solution & Approach
+
+To address fragmented insights into water access across Mogadishu and its surrounding districts, a centralized Power BI dashboard was developed using a **modelled dataset** grounded in local infrastructure dynamics.
+
+- **Data Modeling**: Created a structured dataset with daily records by district, incorporating modeled population estimates, daily access counts, infrastructure functionality, and average consumption in liters.
+- **KPI Development**: Built key performance indicators (KPIs) to highlight access coverage, infrastructure reliability, and daily consumption trends.
+- **Visual Design**: Utilized a suite of Power BI visuals—cards, line charts, bar graphs, and conditional formatting tables—to support clear storytelling and facilitate data exploration.
+- **Interactivity**: Enabled dynamic filtering by district, infrastructure status, and date to empower stakeholders to compare outcomes and trends over time.
+- **Policy Alignment**: The dashboard structure mirrors typical planning workflows for local governments and NGOs involved in service delivery, policy formulation, and infrastructure investment.
+
+## 📊 Dashboard Features
+
+This Power BI dashboard was designed for real-time exploration of water access dynamics across high-density Somali districts. Key visual elements include:
+
+- **KPI Cards**: Track overall daily water access %, average consumption (L), population with access, and non-functional infrastructure share.
+- **Interactive Filters**: Users can dynamically slice by district, infrastructure status, and date range to compare geographic and temporal performance.
+- **Infrastructure Status Breakdown**: Donut chart illustrates the proportion of Working, Limited, and Broken sites.
+- **Access & Consumption Trends**:
+  - *Bar chart* compares average daily consumption across districts.
+  - *Line chart* visualizes daily access rate trends over time.
+- **Conditionally Formatted Table**: Highlights broken infrastructure records for immediate attention.
+- **Access by Status & District**: Stacked bar chart cross-tabulates access rate with infrastructure conditions.
+
+These elements provide clarity and flexibility for decision-makers navigating water infrastructure policy and service delivery in Somalia.
+
+---
+
 ## 📂 Folder Structure
 ```text
 Project_3_WaterAccess_Somalia/
