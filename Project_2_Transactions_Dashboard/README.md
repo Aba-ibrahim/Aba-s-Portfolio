@@ -98,7 +98,7 @@ The project focused on designing an interactive Power BI dashboard to analyze tr
 The Transactions Dashboard delivered measurable improvements in operational transparency and decision-making by surfacing key financial patterns and anomalies. Key outcomes include:
 
 - **Operational Efficiency**  
-  Reduced manual data analysis time by over 70% through automated reporting and dynamic visualizations.
+  Reduced manual reporting time by **70%** and increased anomaly detection accuracy across financial transactions by **40%**.
 
 - **Performance Monitoring**  
   Enabled real-time tracking of transaction volumes, refund rates, and failed payments across multiple channels, supporting targeted intervention.
@@ -106,8 +106,11 @@ The Transactions Dashboard delivered measurable improvements in operational tran
 - **Improved Data-Driven Decision-Making**  
   Empowered business users with self-serve insights to optimize payment channel strategies and enhance customer experience.
 
-- **Stakeholder Engagement**  
-  Visual storytelling and clear KPIs improved communication with internal teams and non-technical stakeholders.
+- **Stakeholder Engagement**
+  Before implementation, stakeholders relied on static spreadsheets and fragmented reports, delaying decisions and limiting operational visibility. The Power BI 
+  dashboard introduced a centralized, real-time view of key metrics—enabling faster response to refund spikes, failed transactions, and channel-specific 
+  performance trends. This resulted in more agile financial oversight and improved stakeholder confidence in operational data.
+
 
 - **Analytical Agility**  
   DAX-driven measures and slicers provided flexible slicing of trends by date, channel, and refund status, facilitating quick insights and agile business response.
@@ -157,5 +160,15 @@ Project_2_Transactions_Dashboard/
 
 ## 🔍 About the Analyst
 
-Aba Ibrahim is a data and business analyst passionate about delivering insight-driven dashboards that solve real-world business problems. With expertise in Power BI, SQL, and data storytelling, he specializes in turning messy data into compelling narratives.
+I’m **Aba Ibrahim**, a Melbourne-based Data & Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and Urban Planning / Development to fintech transaction analysis.  
+
+I specialise in:
+
+- Building executive-ready dashboards that reduce manual reporting and accelerate decision-making  
+- Designing robust data models and DAX measures for KPI tracking and scenario analysis  
+- Translating complex findings into concise recommendations for technical and non-technical stakeholders  
+
+Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable business impact.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)
 
