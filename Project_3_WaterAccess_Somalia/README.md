@@ -24,9 +24,9 @@ The dashboard equips policymakers and NGO partners with:
 Access to clean, affordable, and equitable water services remains a significant challenge across Somali cities. While population growth accelerates in urban and peri-urban settlements, planning efforts are often hindered by a lack of centralized and accessible water access data.
 
 Current limitations include:
-- Fragmented infrastructure records
-- Inconsistent population-to-access ratios
-- Lack of real-time visual insights for stakeholders
+- **Fragmented infrastructure records:** No centralized view of water access across districts  
+- **Inconsistent population-to-access ratios:** Inability to track infrastructure functionality over time  
+- **Lack of real-time visual insights for stakeholders:** Limited data visibility for policy and investment decisions  
 
 ---
 
