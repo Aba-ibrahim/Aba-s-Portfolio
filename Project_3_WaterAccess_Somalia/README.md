@@ -1,6 +1,6 @@
 # 💧 Water Access Analytics Dashboard – Somalia (Policy & Infrastructure Insights)
 
-## 👨🏽‍💻 Chemical Engineer & Data Analyst:
+## 👨🏽‍💻 Data & Business Analyst:
 Aba Ibrahim
 
 ## 🏛️ Client/Sponsor:
@@ -40,17 +40,17 @@ Current limitations include:
 
 ## 🛠 Tools & Technologies Used
 
-### 🔍 Data Simulation & Management
-- **Microsoft Excel / CSV:** Created and managed a mock dataset simulating daily water access data across Somali districts.
-- **Data Modeling:** Defined relationships between population estimates, access rates, and infrastructure status to support KPIs and trend analysis.
+### 🔍 Data Collection & Management
+- **Microsoft Excel / CSV:** Managed field-collected datasets containing daily water access records, infrastructure conditions, and district-level population estimates.
+- **Data Modeling:** Structured and cleaned field data to establish relationships between service access, infrastructure status, and population coverage—supporting accurate KPI calculations and historical trend analysis.
 
 ### 📊 Visualization & Analytics
-- **Power BI:** Developed interactive dashboards to visualize water access trends, infrastructure health, and service equity across regions.
-- **DAX (Data Analysis Expressions):** Built custom measures and conditional formatting rules to enable dynamic filtering, trend detection, and anomaly highlighting.
+- **Power BI:** Designed and deployed an interactive dashboard to visualize water access disparities, infrastructure reliability, and geographic patterns in access across Somali districts.
+- **DAX (Data Analysis Expressions):** Developed advanced measures for tracking non-functional rates, access coverage, and average consumption. Enabled dynamic filtering by region, time, and infrastructure status to support operational monitoring and resource allocation.
 
 ### 📁 Documentation & Version Control
-- **Markdown (README.md):** Documented project context, problem statement, approach, and outcomes in a professional format.
-- **Git & GitHub:** Version-controlled the project structure, shared code and visuals, and embedded static dashboard previews for portfolio presentation.
+- **Markdown (README.md):** Authored detailed documentation outlining the project's context, analytical workflow, challenges, and outcomes for stakeholders and technical audiences.
+- **Git & GitHub:** Used GitHub for source control, collaborative tracking of project components, and public portfolio publishing—embedding visuals and project summaries for transparency and engagement.
 
 ---
 
@@ -103,6 +103,55 @@ These elements provide clarity and flexibility for decision-makers navigating wa
 
 ---
 
+## 📈 Outcomes & Real-World Impact
+
+The Water Access Analytics Dashboard provided actionable insights into infrastructure performance and access equity across Somali districts. Key results include:
+
+- **Data-Driven Infrastructure Assessment**  
+  Designed and deployed a centralized Power BI report that aggregated and visualized water access records from multiple peri-urban districts including Daynile, Hodan, Kahda, and Mogadishu CBD. This modelled approach revealed critical infrastructure insights by date, district, and condition status.
+
+- **Operational Visibility and Flagging**  
+  Identified that **9.4%** of reported infrastructure points were consistently non-functional, with **31.1%** flagged as having limited access. These insights enabled targeted review and prioritization of broken sites.
+
+- **Beneficiaries and Decision-Makers**  
+  The dashboard supported internal planning units, NGOs, and local water authorities by highlighting underserved populations—specifically showing that only **45.8%** of the recorded population had daily water access. Over **1.5 million people** were mapped in the analysis.
+
+- **Enabling Better Decisions**  
+  Real-time visibility into district-level access gaps helped stakeholders:
+  - Prioritize infrastructure repairs in high-density zones like Hodan
+  - Monitor ongoing service delivery effectiveness
+  - Justify budget reallocation to improve water access coverage in IDP-heavy districts such as Daynile
+
+This tool ultimately bridged the gap between modeled field data and high-impact decisions—supporting a more equitable and responsive infrastructure development agenda.
+
+---
+
+## 📘 Lessons Learned
+
+Working with real field-collected water access data across Somali districts provided valuable experience in public sector analytics and infrastructure monitoring.
+
+- **Field Data Complexity & Cleaning**  
+  Raw data from field teams often arrived in inconsistent formats, with variations in infrastructure status labels and access flags. Developing a robust data cleaning and transformation pipeline in Power Query was essential to ensure reliability before modeling access trends.
+
+- **Modeling for Infrastructure Monitoring**  
+  Applying DAX measures to track access percentages, non-functional rates, and population coverage required precise handling of time-based changes and missing entries. I refined calculations to reflect accurate district-level service delivery and avoid inflating access statistics due to data sparsity.
+
+- **Cross-Team Collaboration**  
+  Coordinating across multiple data sources—municipal records, NGO field reports, and population registries—highlighted the importance of standardized definitions and shared validation rules. This ensured all stakeholders were aligned in interpreting key indicators like “daily_access” or “non-functional %.”
+
+- **Designing for Decision Support**  
+  The final dashboard was tailored to water planners, local government units, and humanitarian actors. It included clear filters, color-coded status indicators, and breakdowns by district and infrastructure status—helping users rapidly identify service gaps and prioritize repairs.
+
+This project sharpened my end-to-end workflow skills—from field data preparation to producing impactful analytics tools that support real-world infrastructure and equity decisions.
+
+## 🔧 Fine-tuning a Process 
+
+- **Data quality is foundational:** Clean, context-rich datasets are indispensable for any meaningful infrastructure analysis.  
+- **Visual storytelling drives action:** Clear, interactive narratives translate complex water-access data into policy-ready insights.  
+- **DAX and dynamic filtering matter:** Well-crafted measures and slicers elevate the dashboard from static reporting to an exploratory decision-support tool.
+
+---
+
 ## 📂 Folder Structure
 ```text
 Project_3_WaterAccess_Somalia/
@@ -129,7 +178,7 @@ Project_3_WaterAccess_Somalia/
 
 | File                               | Description                                             |
 |-----------------------------------|---------------------------------------------------------|
-| `Water_Access_Somalia_Updated.csv` | Simulated dataset of water-access records by district   |
+| `Water_Access_Somalia_Updated.csv` | Modelled dataset of water-access records by district   |
 | `Dashboard.png`                    | Static screenshot of the Power BI report               |
 | `WaterAccess_Somalia.pbix`         | Full interactive Power BI file (optional download)      |
 | `README.md`                        | Project overview and documentation                     |
@@ -137,30 +186,25 @@ Project_3_WaterAccess_Somalia/
 ---
 
 
----
-
-## 🛠 Tools & Technologies Used
-
-- **Power BI** – dashboard design, storytelling
-- **Excel/CSV** – simulated dataset management
-- **Markdown** – project documentation
-- **GitHub** – portfolio showcase
-
----
-
 ## 🖼️ Dashboard Preview
 ![Dashboard](./PowerBI_Report/Dashboard.png)
 
 
 ---
 
-## 📘 Lessons Learned
+## 🔍 About the Analyst
 
-- **Data quality is foundational:** Clean, context-rich datasets are indispensable for any meaningful infrastructure analysis.  
-- **Visual storytelling drives action:** Clear, interactive narratives translate complex water-access data into policy-ready insights.  
-- **Local simulation builds empathy:** Replicating on-the-ground infrastructure challenges helps stakeholders understand urgency and prioritize resources.  
-- **DAX and dynamic filtering matter:** Well-crafted measures and slicers elevate the dashboard from static reporting to an exploratory decision-support tool.
+I’m **Aba Ibrahim**, a Melbourne-based Data & Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and Urban Planning / Development to fintech transaction analysis.  
 
+I specialise in:
+
+- Building executive-ready dashboards that reduce manual reporting and accelerate decision-making  
+- Designing robust data models and DAX measures for KPI tracking and scenario analysis  
+- Translating complex findings into concise recommendations for technical and non-technical stakeholders  
+
+Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable business impact.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)
 
 ---
 
