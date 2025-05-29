@@ -38,6 +38,44 @@ Current limitations include:
 
 ---
 
+## 🛠 Tools & Technologies Used
+
+### 🔍 Data Simulation & Management
+- **Microsoft Excel / CSV:** Created and managed a mock dataset simulating daily water access data across Somali districts.
+- **Data Modeling:** Defined relationships between population estimates, access rates, and infrastructure status to support KPIs and trend analysis.
+
+### 📊 Visualization & Analytics
+- **Power BI:** Developed interactive dashboards to visualize water access trends, infrastructure health, and service equity across regions.
+- **DAX (Data Analysis Expressions):** Built custom measures and conditional formatting rules to enable dynamic filtering, trend detection, and anomaly highlighting.
+
+### 📁 Documentation & Version Control
+- **Markdown (README.md):** Documented project context, problem statement, approach, and outcomes in a professional format.
+- **Git & GitHub:** Version-controlled the project structure, shared code and visuals, and embedded static dashboard previews for portfolio presentation.
+
+---
+
+## 📊 Data Overview
+
+This project utilizes field-collected dataset reflecting water access metrics across several rapidly urbanizing districts in Somalia, including Mogadishu’s CBD, Daynile, Hodan, and Kahda. The dataset was designed to support scenarios encountered by infrastructure planners and policy stakeholders operating in resource-constrained environments.
+
+### Key Fields:
+- `date`: Daily record of water access activity
+- `district`: Urban or peri-urban area name
+- `daily_access`: Number of residents with water access on that day
+- `avg_consumption_liters`: Average daily water consumption per resident
+- `infrastructure_status`: Categorical indicator (Working, Limited, Broken)
+- `population_estimate`: Estimated total population of the district
+
+### Data Notes:
+- **Data Source**: Field-collected dataset, public UN water access reports, World Bank infrastructure frameworks, and estimated population densities from Somali urban districts.
+- **Data Structure**: Each record represents a daily entry per district, including fields such as population estimates, access counts, average consumption (liters), and infrastructure status.
+- **Purpose**: Designed to surface disparities in access, identify non-functional infrastructure, and inform policy or investment decisions through scenario-based insights.
+- **Scalability**: The structure and design of the dataset support future expansion to include rural regions, seasonal trends, and additional infrastructure indicators.
+
+This dataset enables trend analysis of access coverage, infrastructure gaps, and consumption behavior—empowering stakeholders to make more equitable, evidence-based water service decisions.
+
+---
+
 ## 📂 Folder Structure
 ```text
 Project_3_WaterAccess_Somalia/
