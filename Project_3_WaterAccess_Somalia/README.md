@@ -31,7 +31,7 @@ Current limitations include:
 ---
 
 ## 🎯 Objectives
-- Simulate water access data for high-growth urban districts
+- Develop analytical models to assess water access in rapidly growing urban districts
 - Create a centralized analytics dashboard to explore coverage rates, equity gaps, and infrastructure needs
 - Showcase how Power BI can help urban planners, government units, and NGOs make data-informed decisions
 - Embed interactive visuals to illustrate disparities and prioritize future investments
@@ -202,7 +202,7 @@ I specialise in:
 - Designing robust data models and DAX measures for KPI tracking and scenario analysis  
 - Translating complex findings into concise recommendations for technical and non-technical stakeholders  
 
-Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable business impact.
+Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable real-world impact.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)
 
