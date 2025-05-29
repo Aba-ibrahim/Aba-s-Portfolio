@@ -2,13 +2,13 @@
 
 Explore a selection of hands-on projects that demonstrate my data storytelling, dashboard design, and end-to-end Power BI development process:
 
-- 🔴 **Project 1: Centralized Engagement Dashboard**  
+- 🔴 [**Project 1: Centralized Engagement Dashboard**](./Project_1_Centralized_Engagement_Dashboard)  
   An interactive Power BI solution analyzing engagement activities across accommodation settings, streamlining public health reporting and outreach effectiveness during the COVID-19 response.
 
-- 🟢 **Project 2: Financial Transactions Dashboard**  
+- 🟢 [**Project 2: Financial Transactions Dashboard**](./Project_2_Transactions_Dashboard)  
   A dynamic dashboard uncovering insights from transaction data across web, mobile, and in-store channels—tracking volume, refund rates, and customer behavior to optimize financial oversight.
 
-- 🔷 **Project 3: Water Access Analytics Dashboard (Somalia)**  
+- 🔷 [**Project 3: Water Access Analytics Dashboard (Somalia)**](./Project_3_WaterAccess_Somalia)  
   A policy-oriented dashboard built from modeled field data to highlight disparities in water access across Mogadishu districts. Enables real-time insights into infrastructure gaps, non-functional rates, and service equity for planning and investment decisions.
 
 
