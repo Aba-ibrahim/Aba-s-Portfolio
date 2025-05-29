@@ -106,10 +106,11 @@ The Transactions Dashboard delivered measurable improvements in operational tran
 - **Improved Data-Driven Decision-Making**  
   Empowered business users with self-serve insights to optimize payment channel strategies and enhance customer experience.
 
-- **Stakeholder Engagement**
-  Before implementation, stakeholders relied on static spreadsheets and fragmented reports, delaying decisions and limiting operational visibility. The Power BI 
-  dashboard introduced a centralized, real-time view of key metrics—enabling faster response to refund spikes, failed transactions, and channel-specific 
-  performance trends. This resulted in more agile financial oversight and improved stakeholder confidence in operational data.
+- **Stakeholder Engagement**  
+  Prior to implementation, stakeholders relied on static spreadsheets and fragmented reports, delaying decisions and limiting operational visibility. The Power BI dashboard introduced a centralized, real-time view of key metrics—enabling faster response to refund spikes, failed transactions, and channel-specific performance trends. This resulted in more agile financial oversight and improved stakeholder confidence in operational data.
+
+- **Analytical Agility**  
+  DAX-driven measures and slicers enabled dynamic filtering by date, channel, and refund status, facilitating quick insights and supporting timely business responses.
 
 
 - **Analytical Agility**  
