@@ -141,6 +141,21 @@ Project_1_Centralized_Engagement_Dashboard/
 ![Dashboard Overview](./PowerBI_Report/dashboard.jpg)
 
 ---
+
+### 🔍 Interactive Power BI Dashboard
+
+> **coHealth Community Engagement Dashboard**  
+> Live insights from HRAR COVID outreach data
+
+🌐 [Click to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYz...)
+
+<iframe title="coHealth Community Engagement"
+width="100%" height="500"
+src="https://app.powerbi.com/view?r=eyJrIjoiNmVkYz..." 
+frameborder="0" allowFullScreen="true"></iframe>
+
+---
+
 ## 🔍 About the Analyst
 
 I’m **Aba Ibrahim**, a Melbourne-based Data & Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and Urban Planning / Development to fintech transaction analysis.  
