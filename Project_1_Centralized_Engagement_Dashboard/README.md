@@ -149,10 +149,7 @@ Project_1_Centralized_Engagement_Dashboard/
 
 🌐 [Click to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYz...)
 
-<iframe title="coHealth Community Engagement"
-width="100%" height="500"
-src="https://app.powerbi.com/view?r=eyJrIjoiNmVkYz..." 
-frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="coHealth Community Engagement Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
