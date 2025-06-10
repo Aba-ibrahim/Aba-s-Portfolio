@@ -147,7 +147,7 @@ Project_1_Centralized_Engagement_Dashboard/
 > **coHealth Community Engagement Dashboard**  
 > Live insights from HRAR COVID outreach data
 
-🌐 [Click to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYz...)
+🌐 [Click to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
 
 <iframe title="coHealth Community Engagement Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
