@@ -142,14 +142,22 @@ Project_1_Centralized_Engagement_Dashboard/
 
 ---
 
-### 🔍 Interactive Power BI Dashboard
+## 🏥 Interactive Power BI Dashboard  
+**Project 1: Centralized Engagement Dashboard – COVID Response**  
+*Real-time reporting for community engagement and outreach across public health sites during the COVID-19 pandemic.*
 
-> **coHealth Community Engagement Dashboard**  
-> Live insights from HRAR COVID outreach data
-
-🌐 [Click to explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
+🔗 **[Explore the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)**  
+_(Hosted via GitHub Gist + HTMLPreview)_
 
 <iframe title="coHealth Community Engagement Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmVkYzZiNjktZWMyMS00Yjk4LTkzOGYtNThkOGRlZjIwYTI2IiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+### 📊 Dashboard Highlights:
+- Visualize outreach activities across accommodation and community settings  
+- Track daily engagement, demographic reach, and caseworker assignments  
+- Monitor trends in service utilization and flag under-engaged sites  
+- Enable multi-team reporting through role-based access and filters  
+
+🧠 Built With: Power BI | DAX | SharePoint-integrated CSV trackers  
 
 ---
 
