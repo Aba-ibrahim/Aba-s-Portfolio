@@ -198,13 +198,7 @@ Project_3_WaterAccess_Somalia/
 🔗 **[Click to Explore the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYxNjA1Y2YtYTliNi00ZDM4LWI1OGEtZDc5NTlhOGZjNDBiIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)**  
 _(Hosted via GitHub Gist & HTMLPreview)_
 
-<iframe title="Water Access Analytics Dashboard – Somalia"
-width="100%"
-height="500"
-src="https://app.powerbi.com/view?r=eyJrIjoiXYZ...123"
-frameborder="0"
-allowFullScreen="true">
-</iframe>
+<iframe title="Project 3_Water Access Dashboard - Somalia" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWYxNjA1Y2YtYTliNi00ZDM4LWI1OGEtZDc5NTlhOGZjNDBiIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 🔎 Use this Dashboard to:
 - Monitor real-time trends in average water access %
