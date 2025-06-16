@@ -159,6 +159,11 @@ Project_2_Transactions_Dashboard/
 
 ---
 
+## 🔗 Interactive Power BI Dashboard
+**Financial Transactions Dashboard**  
+Live preview: [Click to open dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJkMTAzMDUtZjk3NS00OWU1LWI4YmYtYTFjZTM5ZDU5ODFmIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
+
+---
 ## 🔍 About the Analyst
 
 I’m **Aba Ibrahim**, a Melbourne-based Data & Business Analyst who turns raw data into clear, actionable insight. My toolset spans Power BI, SQL, and advanced data-visualisation techniques, while my sector experience ranges from public-health outreach and Urban Planning / Development to fintech transaction analysis.  
