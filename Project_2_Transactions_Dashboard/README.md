@@ -159,9 +159,22 @@ Project_2_Transactions_Dashboard/
 
 ---
 
-## 🔗 Interactive Power BI Dashboard
+## 💳 Interactive Power BI Dashboard  
 **Financial Transactions Dashboard**  
-Live preview: [Click to open dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJkMTAzMDUtZjk3NS00OWU1LWI4YmYtYTFjZTM5ZDU5ODFmIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
+*Real-time insights into customer behavior, payment anomalies, and refund trends across multiple sales channels.*
+
+🔗 **[Click to Explore the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJkMTAzMDUtZjk3NS00OWU1LWI4YmYtYTFjZTM5ZDU5ODFmIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)**  
+_(Hosted via GitHub Gist & HTMLPreview)_
+
+<iframe title="Project 2_Transcations_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjJkMTAzMDUtZjk3NS00OWU1LWI4YmYtYTFjZTM5ZDU5ODFmIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+### 📊 Dashboard Highlights:
+- Track transaction volume across Web, Mobile, and In-store channels  
+- Monitor refund rates, failed payments, and payment status anomalies  
+- Analyze customer payment behavior and operational trends  
+- Identify key risk areas for financial oversight and intervention  
+
+🧠 Built With: Power BI | DAX | CSV-modeled transaction data  
 
 ---
 ## 🔍 About the Analyst
