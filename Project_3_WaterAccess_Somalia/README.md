@@ -189,6 +189,11 @@ Project_3_WaterAccess_Somalia/
 ## 🖼️ Dashboard Preview
 ![Dashboard](./PowerBI_Report/Dashboard.png)
 
+---
+
+## 🔗 Interactive Power BI Dashboard
+**Water Access Analytics Dashboard – Somalia**  
+Live preview: [Open Embedded Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYxNjA1Y2YtYTliNi00ZDM4LWI1OGEtZDc5NTlhOGZjNDBiIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
 
 ---
 
