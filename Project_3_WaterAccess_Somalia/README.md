@@ -191,9 +191,28 @@ Project_3_WaterAccess_Somalia/
 
 ---
 
-## 🔗 Interactive Power BI Dashboard
+## 🌍 Interactive Power BI Dashboard  
 **Water Access Analytics Dashboard – Somalia**  
-Live preview: [Open Embedded Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYxNjA1Y2YtYTliNi00ZDM4LWI1OGEtZDc5NTlhOGZjNDBiIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)
+*Live insights into infrastructure functionality and population-level access trends across Somali districts.*
+
+🔗 **[Click to Explore the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYxNjA1Y2YtYTliNi00ZDM4LWI1OGEtZDc5NTlhOGZjNDBiIiwidCI6IjM2OWI2ZThkLTI0ODYtNGYxYy1iMjEwLTg3OTNhZWMyYzkxZiJ9)**  
+_(Hosted via GitHub Gist & HTMLPreview)_
+
+<iframe title="Water Access Analytics Dashboard – Somalia"
+width="100%"
+height="500"
+src="https://app.powerbi.com/view?r=eyJrIjoiXYZ...123"
+frameborder="0"
+allowFullScreen="true">
+</iframe>
+
+### 🔎 Use this Dashboard to:
+- Monitor real-time trends in average water access %
+- Compare infrastructure status across urbanizing districts (Working / Limited / Broken)
+- Surface equity gaps in daily access & consumption
+- Inform data-driven policy and investment strategies
+
+📝 Powered by: Microsoft Power BI | DAX | Field-modeled datasets
 
 ---
 
