@@ -1,6 +1,6 @@
 # 💧 Water Access Analytics Dashboard – Somalia (Policy & Infrastructure Insights)
 
-## 👨🏽‍💻 Data & Business Analyst:
+## 👨🏽‍💻 Chemical Engineer & Sustainability Analyst:
 Aba Ibrahim
 
 ## 🏛️ Client/Sponsor:
