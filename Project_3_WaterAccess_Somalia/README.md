@@ -222,7 +222,7 @@ I specialise in:
 
 Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable real-world impact.
 
-🔗 [LinkedIn](www.linkedin.com/in/abba-ibrahim)
+🔗 [LinkedIn](https://www.linkedin.com/in/abba-ibrahim/)
 
 ---
 
