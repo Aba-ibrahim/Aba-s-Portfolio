@@ -173,7 +173,7 @@ I specialise in:
 
 Whether optimising community-health interventions or uncovering revenue trends, I’m driven by the same goal: turning numbers into measurable business impact.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)
+🔗 [LinkedIn](https://www.linkedin.com/in/abba-ibrahim/)
 
 
 
