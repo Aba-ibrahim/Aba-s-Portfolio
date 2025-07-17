@@ -30,5 +30,5 @@ My background includes experience in community services, urban planning / develo
 This GitHub portfolio showcases my end-to-end BI development process – from data wrangling to visualization design.
 
 Let’s connect:  
-🔗 [LinkedIn](https://www.linkedin.com/in/aba-ibrahim)  
+🔗 [LinkedIn](www.linkedin.com/in/abba-ibrahim)  
 ✉️ Email: [abatheanalyst@gmail.com]
